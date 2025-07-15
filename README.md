@@ -4,6 +4,9 @@
 
 O objetivo principal do projeto é fornecer uma infraestrutura escalável e eficiente para a coleta e acesso remoto de dados da flora brasileira, promovendo a preservação ambiental e o uso sustentável dos recursos naturais.
 
+## 🖥️ Front-end
+- https://github.com/murilpcarneiro/reflora-app/tree/dev
+
 ## 🚀 Tecnologias Utilizadas
 
 - **TypeScript** – Linguagem principal para desenvolvimento da API.
